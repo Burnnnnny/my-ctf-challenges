@@ -9,6 +9,11 @@ ez command injection chall
 
 ---
 
+### Backup
+[https://dreamhack.io/wargame/challenges/1204](https://dreamhack.io/wargame/challenges/1204)
+
+---
+
 ### simple Solution
 
 

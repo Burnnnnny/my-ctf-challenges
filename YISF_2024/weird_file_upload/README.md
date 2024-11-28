@@ -11,6 +11,12 @@ Well-known, weird, and safe file upload
 
 ---
 
+
+### Backup
+[https://dreamhack.io/wargame/challenges/1400](https://dreamhack.io/wargame/challenges/1400)
+
+---
+
 ### simple Solution
 랜덤이지만 고정된 파일명을 가진 파일을 업로드 할 수 있습니다.
 

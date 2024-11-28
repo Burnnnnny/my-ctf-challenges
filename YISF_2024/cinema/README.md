@@ -13,6 +13,11 @@
 ```
 ---
 
+### Backup
+[https://dreamhack.io/wargame/challenges/1380](https://dreamhack.io/wargame/challenges/1380)
+
+---
+
 ### simple Solution
 [https://blog.hspace.io/posts/CSS_injection/](https://blog.hspace.io/posts/CSS_injection/#n1ctf-2023-ytiruces)에서 
 
