@@ -1,0 +1,12 @@
+name: Animal
+category: web
+difficulty: medium
+cpu_spec: 1 
+mem_spec: 512 
+port: 35135
+
+description: a well-known animal photo repository
+
+flag: hspace{cv3-2024-2961_is_A_rea1ly_int3rEstin9_vu1n3rAbI1Ity}
+chall_dir: Animal
+compose_file: Animal/prob/for_organizer/docker-compose.yml
