@@ -29,3 +29,4 @@
 | 문제 이름 | 난이도 | about |
 |-----------|--------|------|
 | [EZ_command_injection](https://dreamhack.io/wargame/challenges/1204) | Easy | Command injection with ipv6 |
+|[another-yurutube](https://dreamhack.io/wargame/challenges/1621)| medium | Media Dimensions XS-Leak & youtube redirection |

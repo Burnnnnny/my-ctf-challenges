@@ -1,6 +1,7 @@
 ### EZ_command_injection
 
 - Category : web
+- Difficulty : easy
 
 ---
 
